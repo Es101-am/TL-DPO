@@ -10,7 +10,7 @@ The DPO-TL.ipynb notebook provides a step-by-step guide to:
 
   2. Preparing a dataset of prompt-response pairs with preference annotations.
 
-  3. Applying the DPO algorithm to fine-tune the model based on these preferences.
+  3. Applying the DPO algorithm along with LoRA to fine-tune the model efficiently.
 
   4. Evaluating the performance of the fine-tuned model.
 
